@@ -10,3 +10,5 @@ console.log(first([7, 9, 0, -2])); // 7
 console.log(first([], 3)); // []
 console.log(first([7, 9, 0, -2], 3)); // [7, 9 ,0]
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
